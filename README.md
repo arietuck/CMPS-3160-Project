@@ -1,1 +1,2 @@
-# CMPS-3160-Project
+# Final Project
+#Arie Tuckerman and Julia Renner 
